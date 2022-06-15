@@ -7,3 +7,5 @@ UNION
 SELECT name, population, area
 FROM World
 WHERE population > 25000000
+
+/* In sql union operation is faster than the Or operation */
